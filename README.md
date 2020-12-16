@@ -1,4 +1,5 @@
-[![author](https://img.shields.io/badge/author-CrislaneAlves-red.svg)](https://www.linkedin.com/in/s-alvescrislane/) [![](https://img.shields.io/badge/R-4.0.3-blue.svg)](https://cran.r-project.org/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/crislanealves/issues)
+[![author](https://img.shields.io/badge/author-CrislaneAlves-red.svg)](https://www.linkedin.com/in/s-alvescrislane/) [![](https://img.shields.io/badge/R-4.0.3-blue.svg)](https://cran.r-project.org/) [![MIT license](https://img.shields.io/apm/l/MIT?style=plastic-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/KattsonBastos/crislanealves/issues)
+
 
 <!--
 **crislanealves/crislanealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
