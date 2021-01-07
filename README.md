@@ -18,7 +18,8 @@ I currently I'm a research fellow at both Tutorial Education Program and Researc
 
 - [x] R
 - [x] SQL
-- [ ] Mathematical Optmization
+- [x] Latex
+- [x] Mathematical Optmization 
 - [ ] Data Science and Big Data Analytics 
 
 
