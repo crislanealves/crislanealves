@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi there 👋, I’m Cris! How can I help you?  </h1>
+<h1 align="center"> Hi there :blush:, I’m Cris! How can I help you?  </h1>
 
 
 
@@ -14,8 +14,17 @@ I currently I'm a research fellow at both Tutorial Education Program and Researc
 </p>
 
 ---
+### Skills I'm developing 🎯 
 
-### Talk to me!
+- [x] R
+- [x] SQL
+- [ ] Mathematical Optmization
+- [ ] Data Science and Big Data Analytics 
+
+
+---
+
+### Collaborate with me :v:
 
 <a href="https://www.linkedin.com/in/s-alvescrislane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s-alvescrislane" height="15" width="15" /></a> 
 
