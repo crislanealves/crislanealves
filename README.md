@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi there :blush:, I’m Cris! How can I help you?  </h1>
+<h1 align="center"> Hey guys :blush:, I’m Cris! How can I help you?  </h1>
 
 
 
