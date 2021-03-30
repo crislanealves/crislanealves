@@ -20,14 +20,13 @@ Currently, I'm a research fellow at both Tutorial Education Program and Research
 - [x] SQL
 - [x] Latex
 - [x] Mathematical Optmization 
-- [ ] Data Science and Big Data Analytics 
+- [x] Data Science and Big Data Analytics 
 
 
 ---
 
 ### Collaborate with me :v:
 
-<a href="https://www.linkedin.com/in/s-alvescrislane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s-alvescrislane" height="15" width="15" /></a> 
 
 <a href="https://mail.protonmail.com/login" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="crislanealves@protonmail.com" height="15" width="15" /></a> crislanealves@protonmail.com
 
