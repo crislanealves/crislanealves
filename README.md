@@ -8,7 +8,7 @@
 
 <p align="justify-all">
 
-Currently, I'm a research fellow at Research Group on Economics, Environment and Innovation and Data Assistent at [Base dos Dados](/https://github.com/basedosdados). My research interests are Innovation and Applied Economics, with a focus on productivity and growth. In my research, I use applied microeconomics and macroeconomics methods to investigate key issues for productivity and growth. In particular, the evolution of labor productivity by Brazilian states. In the area of Innovation, my work is concentrated in the study on National Innovation Systems.
+Currently, I'm a research fellow at Research Group on Economics, Environment and Innovation and Data Assistent at [Base dos Dados](https://github.com/basedosdados). My research interests are Innovation and Applied Economics, with a focus on productivity and growth. In my research, I use applied microeconomics and macroeconomics methods to investigate key issues for productivity and growth. In particular, the evolution of labor productivity by Brazilian states. In the area of Innovation, my work is concentrated in the study on National Innovation Systems.
 
 </a>
 </p>
