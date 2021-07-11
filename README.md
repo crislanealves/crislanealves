@@ -25,6 +25,13 @@ Currently, I'm a research at Research Group on Economics, Environment and Innova
 
 
 ---
+<center>
+  
+[![Crislane's GitHub stats](https://github-readme-stats.vercel.app/api?username=crislanealves&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=crislanealves&count_private=true&show_icons=true)
+
+</center>
+
+---
 
 ### Collaborate with me :v:
 
