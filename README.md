@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hey guys :blush:, I’m Cris! How can I help you?  </h1>
+<h1 align="center"> Hey guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Cris! How can I help you?  </h1>
 
 
 
