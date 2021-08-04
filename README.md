@@ -19,7 +19,7 @@ Currently, I'm a research at Research Group on Economics, Environment and Innova
 - [x] R
 - [x] SQL
 - [x] Latex
-- [x] Mathematical Optmization 
+- [x] Mathematical Optmization   
 - [x] Data Science and Big Data Analytics 
 - [x] Python 
 
