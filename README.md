@@ -17,11 +17,12 @@ Currently, I'm a research at Research Group on Economics, Environment and Innova
 ### Skills I'm developing 🎯 
 
 - [x] R
+- [x] Python 
 - [x] SQL
 - [x] Latex
 - [x] Mathematical Optmization   
 - [x] Data Science and Big Data Analytics 
-- [x] Python 
+
 
 
 ---
