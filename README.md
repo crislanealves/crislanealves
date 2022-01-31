@@ -16,8 +16,8 @@ Currently, I'm a Data Assistant at [Base dos Dados](https://github.com/basedosda
 ---
 ### Skills I'm developing 🎯 
 
-- [x] R
 - [x] Python 
+- [x] R
 - [x] SQL
 - [x] Latex
 - [x] Mathematical Optmization   
