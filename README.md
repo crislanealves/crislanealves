@@ -14,14 +14,7 @@ Currently, I'm a Data Manager at [Base dos Dados](https://github.com/basedosdado
 </p>
 
 ---
-### Skills I'm developing 🎯 
 
-- [x] Python 
-- [x] R
-- [x] SQL
-- [x] Latex
-- [x] Mathematical Optmization   
-- [x] Data Science and Big Data Analytics 
 
 
 
